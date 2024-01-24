@@ -1,6 +1,0 @@
-telebot
-sys
-os
-time
-random
-requests
